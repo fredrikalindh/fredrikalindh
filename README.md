@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **react and typescript**
 
-- 👯 I’m looking to collaborate on [Hack Money)(https://hackathon.money/)
+- 👯 I’m looking to collaborate on [Hack Money](https://hackathon.money/)
 <!-- 
 - 🤝 I’m looking for help with **learning blockchain** -->
 
