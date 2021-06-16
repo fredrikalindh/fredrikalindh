@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Fredrika</h1>
-<h3 align="center">Made in Sweden, based in Paris</h3>
 
 - 🔭 I’m currently working on [papapal](https://papapal.me) and [NaturalyCode](https://naturalycode.com/)
 
