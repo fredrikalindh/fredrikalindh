@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Fredrika</h1>
 
-- 🔭 I’m currently working on [papapal](https://papapal.me) and [NaturalyCode](https://naturalycode.com/)
+- 🔭 I’m currently working on [Show My NFT](https://show-my-nft.com/) 
 
-- 🌱 I’m currently learning **react and typescript**
+- 🌱 I’m currently learning **solidity**
 
-- 👯 I’m looking to collaborate on [Hack Money](https://hackathon.money/)
+- 👯 I’m looking to collaborate on crypto projects 
 <!-- 
 - 🤝 I’m looking for help with **learning blockchain** -->
 
