@@ -1,16 +1,10 @@
 <h1 align="center">Hi 👋, I'm Fredrika</h1>
 
-- 🔭 I’m currently working on [Show My NFT](https://show-my-nft.com/) 
+- 🔭 I’m currently working on [Etherfly](https://etherfly.xyz/) & more 
 
-- 🌱 I’m currently learning **solidity**
-
-- 👯 I’m looking to collaborate on crypto projects 
-<!-- 
-- 🤝 I’m looking for help with **learning blockchain** -->
-
-- 💬 Ask me about **c or c++**
-
-- 📫 How to reach me **fredrikalindh@gmail.com**
+<!-- - 🌱 I’m currently learning **solidity** -->
+<!-- - 💬 Ask me about **c or c++** -->
+<!-- - 📫 How to reach me **fredrikalindh@gmail.com** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
