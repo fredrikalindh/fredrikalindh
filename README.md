@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fredrika</h1>
 
-- 🔭 I’m currently working on [Etherfly](https://etherfly.xyz/) & more 
+- 🔭 I’m currently working on [Etherfly](https://etherfly.xyz/) & [CypherHumans](https://cypherhumans.xyz/) 
 
 <!-- - 🌱 I’m currently learning **solidity** -->
 <!-- - 💬 Ask me about **c or c++** -->
