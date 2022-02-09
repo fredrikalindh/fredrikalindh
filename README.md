@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fredrika</h1>
 
-🚀 I’m currently working on [Etherfly](https://etherfly.xyz/) & [CypherHumans](https://cypherhumans.xyz/) 
+🚀 I’m currently working on [Crew3](https://crew3.xyz/) - we help grow and engage web3 communities!
 
 🧠 Ask me about NTFs or web3 development 
 
