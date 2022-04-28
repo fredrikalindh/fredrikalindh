@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Fredrika 👩🏽‍💻</h1>
 
-🚀 I’m currently working on [Crew3](https://crew3.xyz/) - we help grow and engage web3 communities!
+🚀 I’m currently working on [Crew3](https://crew3.xyz/) - we help grow, engage and understand web3 communities!
 
 🧠 Ask me about NTFs or web3 development!
 
