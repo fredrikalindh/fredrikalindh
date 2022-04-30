@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Fredrika 👩🏽‍💻</h1>
+<h1>Hi 👋, I'm Fredrika</h1>
 
 🚀 I’m currently working on [Crew3](https://crew3.xyz/) - we help grow, engage and understand web3 communities!
 
