@@ -5,4 +5,4 @@
 We're currently hiring. Devs and designers if you're interested in joining a small team of ambitious people from all over the world - check out all our offers [here](https://zealy.crew.work/jobs) 🌈
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=fredrikalindh&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=fredrikalindh&hide_border=true)](https://git.io/streak-stats)
